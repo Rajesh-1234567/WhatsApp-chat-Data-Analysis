@@ -37,6 +37,7 @@ Overall, WhatsApp chat analyzer addresses a range of problems related to communi
 
 ## Technologies Used
 
+- Python 
 - Plotly
 - Matplotlib
 - Seaborn
